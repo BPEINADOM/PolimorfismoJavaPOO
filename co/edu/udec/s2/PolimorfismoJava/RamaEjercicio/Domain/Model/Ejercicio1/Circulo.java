@@ -1,4 +1,4 @@
-package Domain.Model;
+package Domain.Model.Ejercicio1;
 
 public class Circulo extends Figura {
     private double radio;

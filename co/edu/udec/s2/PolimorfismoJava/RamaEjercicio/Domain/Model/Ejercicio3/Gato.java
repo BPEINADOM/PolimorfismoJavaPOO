@@ -1,4 +1,4 @@
-package Domain.Model;
+package Domain.Model.Ejercicio3;
 
 public class Gato extends Animal {
 

@@ -1,4 +1,4 @@
-package Domain.Model;
+package Domain.Model.Ejercicio2;
 
 public class Estudiante extends Persona {
     @Override

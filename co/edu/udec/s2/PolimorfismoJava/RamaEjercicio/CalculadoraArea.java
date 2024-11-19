@@ -1,5 +1,6 @@
-import Domain.Model.Circulo;
-import Domain.Model.Rectangulo;
+import Domain.Model.Ejercicio1.Circulo;
+import Domain.Model.Ejercicio1.Rectangulo;
+import Domain.Model.Ejercicio1.Figura;
 
 public class CalculadoraArea {
 
@@ -10,8 +11,8 @@ public class CalculadoraArea {
         System.out.println("*********************************************");
 
         // Instancias de las figuras usando polimorfismo
-        Circulo circulo = new Circulo(15);
-        Rectangulo rectangulo = new Rectangulo(6, 8);
+        Figura circulo = new Circulo(15);
+        Figura rectangulo = new Rectangulo(6, 8);
 
         // Mostrar el area de las figuras
         System.out.println("- Circulo:");

@@ -1,4 +1,4 @@
-package Domain.Model;
+package Domain.Model.Ejercicio1;
 
 public class Rectangulo extends Figura {
     private double ancho;

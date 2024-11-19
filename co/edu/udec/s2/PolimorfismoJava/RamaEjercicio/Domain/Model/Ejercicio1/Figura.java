@@ -1,4 +1,4 @@
-package Domain.Model;
+package Domain.Model.Ejercicio1;
 
 public abstract class Figura {
 

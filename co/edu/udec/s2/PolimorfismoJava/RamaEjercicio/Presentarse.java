@@ -1,6 +1,6 @@
-import Domain.Model.Estudiante;
-import Domain.Model.Persona;
-import Domain.Model.Profesor;
+import Domain.Model.Ejercicio2.Estudiante;
+import Domain.Model.Ejercicio2.Persona;
+import Domain.Model.Ejercicio2.Profesor;
 
 public class Presentarse {
 
@@ -12,8 +12,8 @@ public class Presentarse {
 
         // Instancias de las personas usando polimorfismo
         Persona persona = new Persona();
-        Estudiante estudiante = new Estudiante();
-        Profesor profesor = new Profesor();
+        Persona estudiante = new Estudiante();
+        Persona profesor = new Profesor();
 
         // Mostrar las presentaciones
         persona.presentarse();

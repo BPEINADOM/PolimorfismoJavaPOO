@@ -1,5 +1,5 @@
-// import Domain.Model.Animal;
-// import Domain.Model.Gato;
+//import Domain.Model.Ejercicio3.Animal;
+// import Domain.Model.Ejercicio3.Gato;
 
 public class Animales {
 
